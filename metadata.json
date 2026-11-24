@@ -1,0 +1,6 @@
+{
+  "name": "KisanMargin",
+  "description": "Multilingual crop-selling decision assistant helping small farmers, FPOs, and agricultural traders compare net proceeds across markets after transport, commissions, and quality deductions.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
